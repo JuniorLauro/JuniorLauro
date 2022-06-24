@@ -4,20 +4,14 @@
 - 🌱 I’m currently learning Python
 - 💼 I'm looking for an internship opportunity
 
-<div align="center">
-  <a href="https://github.com/JuniorLauro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorLauro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorLauro&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lauro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Lauro-Processing" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-plain.svg" />
-  <img align="center" alt="Lauro-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-  <img align="center" alt="Lauro-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Lauro-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Lauro-MatLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-  <img align="center" alt="Lauro-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Lauro-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Lauro-Processing" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-plain.svg" />
+  <img align="center" alt="Lauro-Arduino" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+  <img align="center" alt="Lauro-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Lauro-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Lauro-MatLab" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+  <img align="center" alt="Lauro-Html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   
 </div>
   
