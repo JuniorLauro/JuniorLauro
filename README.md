@@ -1,7 +1,7 @@
 ### Hi there, I'm Lauro Junior 👋
 
 - 🔭 I’m currently working on full-stack development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning React
 - 💼 I'm looking for an internship opportunity
 
 <div style="display: inline_block"><br>
