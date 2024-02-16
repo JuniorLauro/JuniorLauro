@@ -1,8 +1,7 @@
 ### Hi there, I'm Lauro Junior 👋
 
-- 🔭 I’m currently working on full-stack development
-- 🌱 I’m currently learning React
-- 💼 I'm looking for an internship opportunity
+- 🔭 I'm currently working on People Tech Intern - Workday Operations on AB inbev.
+- 🌱 I’m currently exploring Streamlit + Python applications!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lauro-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
