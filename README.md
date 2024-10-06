@@ -1,6 +1,6 @@
 ### Hi there, I'm Lauro Junior 👋
 
-- 🔭 I'm currently working on People Tech Intern - Workday Operations on AB inbev.
+- 🔭 I'm currently working on People Tech at ABinbev - Workday Integrations.
 - 🌱 I’m currently exploring Streamlit + Python applications!
 
 <div style="display: inline_block"><br>
