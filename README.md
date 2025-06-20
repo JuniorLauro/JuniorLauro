@@ -1,7 +1,7 @@
 ### Hi there, I'm Lauro Junior 👋
 
 - 🔭 I'm currently working on People Tech at ABinbev - Workday Integrations.
-- 🌱 I’m currently exploring Streamlit + Python applications!
+- 🌱 I’m currently exploring n8n + Python applications!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lauro-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
